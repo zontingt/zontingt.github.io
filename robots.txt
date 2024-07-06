@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zontingt.github.io/sitemap
+Sitemap: https://zontingt.github.io/app/sitemap
+Sitemap: https://zontingt.github.io/assets/sitemap
+Sitemap: https://zontingt.github.io/css/sitemap
+Sitemap: https://zontingt.github.io/includes/sitemap
+Sitemap: https://zontingt.github.io/item/sitemap
+Sitemap: https://zontingt.github.io/src/sitemap
